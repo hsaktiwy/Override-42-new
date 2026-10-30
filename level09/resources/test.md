@@ -1,6 +1,6 @@
-level09@override:~$ objdump -d -M intel -j .text ./a.out
+level09@override:~$ objdump -d -M intell -j .text a.out 
 
-./a.out:     file format elf64-x86-64
+a.out:     file format elf64-x86-64
 
 
 Disassembly of section .text:
