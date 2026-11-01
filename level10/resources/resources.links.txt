@@ -1,0 +1,1 @@
+Safe Linking Protection :https://research.checkpoint.com/2020/safe-linking-eliminating-a-20-year-old-malloc-exploit-primitive/

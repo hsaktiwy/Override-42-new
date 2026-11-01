@@ -23,10 +23,3 @@ available action:
         : how much the size of the allocated structor
 5) merge : [??: this is our call]
 6) quit action : only quit the service [not interested]
-
-[
-
-]
-{
-    
-}
